@@ -1,4 +1,4 @@
-# Heygem - Open Source Alternative to Heygen [【切换中文】](./README_zh.md)
+# Heygem - Open Source Alternative to Heygen ](./README_zh.md)
 
 ## Announcement
 Heygem digital human cloning intelligent agent and plugins have been successfully launched on the Coze platform. No complex deployment is required, even novice users can easily get started and use it directly.
